@@ -1,1 +1,1 @@
-# hr_letter_generator
+# hr-letter-generator
